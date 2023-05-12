@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on working with VTEX platform and developing applications with React, Typescript and SASS/CSS<br>👯 I’m looking to collaborate on any project where I can learn and improve my skills<br>🌱 I’m currently learning React, TypeScript, Nodejs and more...<br>💬 Ask me about anything, I love to meet people!
+🔭 I’m currently working with VTEX platform and developing applications with React, Typescript and SASS/CSS<br>👯 I’m looking to collaborate on any project where I can learn and improve my skills<br>🌱 I’m currently learning React, TypeScript, Nodejs and more...<br>💬 Ask me about anything, I love to meet people!
 
 
 ## 🌐 Socials:
